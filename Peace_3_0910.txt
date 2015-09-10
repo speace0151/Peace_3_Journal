@@ -1,0 +1,5 @@
+The three steps
+ git add Peace_3_date.txt
+git commit -m "my git msg"
+git push -u origin master
+

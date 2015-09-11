@@ -1,0 +1,1 @@
+Pseudocode is computer programming that is designed for humans to read instead of machines. We will be using pseudocode to help beginners understand coding more.

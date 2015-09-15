@@ -1,0 +1,2 @@
+IDE stands for integrated developement environment
+IT consists of  a source code editor,build automation tools and a debugger.

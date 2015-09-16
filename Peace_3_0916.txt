@@ -1,0 +1,30 @@
+What are the three guiding rules/principles for this class?
+Read the problem
+try different solutions
+Read the error messages to find out why it didnt work
+
+What does this look like in practice?
+This looks ike practicing problem solving.
+
+
+The problem solving process
+Define the problem
+
+Gnerate solutions
+
+
+decide course of action
+
+
+Implement the solution
+
+
+Evaluate the  solution
+
+
+What is the  underlying motivation for  this process
+practice problem solving.
+
+
+you solve prolems
+

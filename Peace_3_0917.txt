@@ -1,0 +1,9 @@
+The five types of Java types are:
+int-an integer that "whole counting number"
+short,lonh,double-other numbers with decimals
+char-just ONE character "a"
+string-alot of charcters
+
+boolean-True of False 1s and 2s
+
+float-a floating point decimal 2.5435879

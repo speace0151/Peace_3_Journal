@@ -1,0 +1,4 @@
+I have recieved credit for all journals.
+It is important to use the naming convention specified when naming files so you can get credit for having them and so you don't use them.
+The command to copy in Linux is cp. To copy a directory to another just highlight what you want and copy and paste. 
+

@@ -1,0 +1,22 @@
+paid license-a license under which all royalties have been paid.
+
+shareware-software that is available free of charge and distrubited informally for evaluation.
+
+trialware-computer software that you can use free of charge for a limited time.
+
+
+Ad-ware-any software that automatically renders advertisements in order to generate revenue for the author who wrote it.
+
+
+Crippleware-software that reduces the functionality with a veiw for the full version that you have to pay for.
+
+Freemium-a pricing strategy for a product service such as software that is free of charge,but you are charged money for the proprietary features that you want.
+
+Freeware(vs Free-OpenSource)-software that is free of chrge but does not have a source code.
+
+Richard Stellman-a software freedom activist who campaigns software to be distributed in a manner that the people who use it have the freedom todo what they want with it. 
+
+
+Lawrence Lessig-former board of member of Free software foundation that is running for president.
+
+Eben Moglen-the founder/chairman/Director Counsel of Software Freedom Law Center.

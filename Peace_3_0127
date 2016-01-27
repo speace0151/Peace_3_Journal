@@ -1,0 +1,1 @@
+To add an image to a slick game, you must make the class that they will be in, make an array list for them, then you will draw where you want to add the image in render class. The image is drawn in the render class. You have to add the cordinates and add the arraylist that you previously made for the class.

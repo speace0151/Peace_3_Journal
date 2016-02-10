@@ -1,0 +1,14 @@
+1.Why wont the picture for the orbs show up. Ive cipied the directory corrctly spelled everything correctly but the Image wont show.
+
+this.orbpic = new Image("res/orbs/Ninja_12.png");
+
+2.I dont understand why this line is stopping the game:orb = new Orb((int)Player.x, (int) Player.y);
+if(orb.isIsVisible()){
+    orb.orbpic.draw(orb.getX(), orb.getY());
+}
+There are no red errors and everything is spelled correctly so does it go in the init class or did I miss place it.
+
+3.I keep getting errors from this line:
+appgc.start();
+I dont know what it does and my game keeps telling me that something is wrong with it. How do I fix the line?
+

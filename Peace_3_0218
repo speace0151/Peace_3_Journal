@@ -1,0 +1,16 @@
+This code sets up the animation for the Player.
+
+It would be unrealistic and unproductive to memorize the Slick syntax because the entire code is so large that the syntax is nearly impossible to remember. The skills that we are trying to practice, are tinkering, being awesome, and being a good problem solver,
+
+An array lets you to render, intitialize and update objects.
+
+You make an array by making an array list. For example:public ArrayList<Orb> orbz =  new ArrayList();
+
+An array list is a group of arrays you want to create. You create an array list by typing public ArrayList<Item> stuff = new ArrayList();
+an example of that would be:public ArrayList<Item1> stuff1 = new ArrayList();
+
+The difference between an array and arraylist is that an array holds information while an arraylist is a bunch of arrays.
+
+We could make a health counter for an avatar by creating a health bar that can take damage every time that you are hit.
+ 
+

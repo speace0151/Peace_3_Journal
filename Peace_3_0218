@@ -12,5 +12,6 @@ an example of that would be:public ArrayList<Item1> stuff1 = new ArrayList();
 The difference between an array and arraylist is that an array holds information while an arraylist is a bunch of arrays.
 
 We could make a health counter for an avatar by creating a health bar that can take damage every time that you are hit.
- 
+
+I practice Cs when I am coding my apps. 
 

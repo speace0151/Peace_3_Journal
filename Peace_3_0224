@@ -1,0 +1,14 @@
+A class rat is defined as public class Rat.
+
+for(rats e: ratz) {
+if(e: isvisible) {
+e.currentanime.draw(e.BX, e.By);
+g.draw(e.rect);
+}
+}
+
+rat.sprite.draw((int) rat.x, (int) rat.y);
+
+The declaration is placed in the render class and the initialize class is found in the init class.
+
+public Enemy rat, rat1, rat2, rat3, rat4

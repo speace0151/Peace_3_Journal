@@ -1,0 +1,6 @@
+
+The code below sets the length and coordinates of a map.
+
+The array values that I would change are the values inside the System.out.println();
+
+You could use this to make a 5 in a game row, by changing x to 5.

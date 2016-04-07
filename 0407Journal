@@ -1,0 +1,6 @@
+I have noticed that Arduino is somewhat similar to netbeans becuase both tell you the lines where you need to fix the errors.
+Both of the programs require you to run them to test your program out, and you can not run two programs at once..
+The differences that I noticed are that the lines in arduino are not numbered like they are in netbeans.
+The code adaptaions that I made were combining circuit four and eleven to make the light show and I changed the number of beats to create a unique tune that the lights follow.
+The motherboard needs to be attached to the computer to create a circuit or it will not work.
+Programs are complied with arduino by using the same code and the way of testing thins by running them.

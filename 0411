@@ -1,0 +1,7 @@
+An assembly is a machine language.
+Assembly is good for writing device papers, operating system design, embedding system programming and writing in line assembly.
+Assembly is different from java by using mnemonics digital numbers and comments.
+The difference is that high level allows you to control the program flow.
+Java is a high level because you can control how youre program flows. It uses 1 and 0s.
+Assembly is a high level becuse it lets you control how the program flows and it uses mnemonics digital numbers and comments.
+

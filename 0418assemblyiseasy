@@ -1,0 +1,23 @@
+The code we wrote for assembly was not easy.
+You had to type elf64 because it is a 64 bit code.
+we used ld because it was a light directory.
+We did not use chmod because we did not need to change any permissions.
+
+global _start
+
+        section .text
+_start:
+        ; write(1, message, 13)
+        mov     rax, 1          
+        mov     rdi, 1
+        mov     rsi, message
+        mov     rdx, 15
+        syscall
+
+        ; exit(0)
+        mov     eax, 60
+        xor     rdi, rdi
+        syscall
+message:
+        db       "Samantha Peace",10    
+I got my code to work by changing the one near rsi to message.

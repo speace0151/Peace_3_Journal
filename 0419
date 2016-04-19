@@ -1,0 +1,3 @@
+The similarities that I see between Human Resource Machine and Assembly are that instead of a for loop they use jump,
+it also has similar commands like jump if zero, and jump if negative.
+The differences that I have noticed are the coding commands like mov, system call number, and call kernel.

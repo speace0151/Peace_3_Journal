@@ -1,0 +1,29 @@
+
+    Write a Java method to return the cubed value of some number.
+    private static void Cubed {
+    {if(somenumber is picked multipy it 3 times);
+    return true 
+    }else{
+    return false
+    }
+    }
+    Write an Arduino function to return the cubed value of some number.
+    int somenumber;
+    int addthreetimes;
+    int return true;
+    Create the class, an object, and class constructor for class student
+    Public class Student{
+    boolean hasBooks;
+    int NumofBooks;
+    boolean hasID;
+    int NumofPencils;
+    Student(int a, int b, int c, boolean d, boolean e, boolean f){
+    this.NumofBooks = a;
+    this.NumofPencils = b;
+    this.hasBooks = c;
+    this.hasPencils = d;
+    this.hasID = e;
+    }
+    }
+    Describe - if we were to continue with Arduino - what would you create?
+If we were to do Arduino again, I would  program the arduino to play multiple songs that you can pause, skip, and listen to.

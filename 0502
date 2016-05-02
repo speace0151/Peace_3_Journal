@@ -1,0 +1,49 @@
+
+    In the Array Game assignment you have had to review and revisit concepts you may have forgotten about. These will all be tested on the final exam!
+    What is an array?
+    
+      An array is an ordered list of objects.
+      
+    How does one make a simple array of Strings?
+    
+    An example of an array would be 
+    int[] something ={1,2,3,4,5};
+    What is the syntax for a 2-D array?
+    A 2d array would look like this:
+    int [] [] z = new int[10] [10];
+        z[0] = new int[10];
+        z[1] = new int[10];
+        z[2] = new int[10];
+        z[3] = new int[10];
+        z[4] = new int[10];
+        z[5] = new int[10];
+        z[6] = new int[10];
+        z[7] = new int[10];
+        z[8] = new int[10];
+        z[9] = new int[10];
+        
+    What is the syntax for a 3-D array?
+    the syntax for a 3d array would look like:
+    
+    int[][][] threeD = 
+    {  { {1,   2,  3}, { 4,  5,  6}, { 7,  8,  9} },
+       { {10, 11, 12}, {13, 14, 15}, {16, 17, 18} },
+       { {19, 20, 21}, {22, 23, 24}, {25, 26, 27} } }
+       
+    How does one change the value for the third value in a one dimensional array? [Give specific code]
+    int[] something = {3}{4};
+  
+    What is the syntax for a while loop?
+    while (boolean)
+    Why use while loops in your game?
+    -To repeat cretain methods
+    Your game should be in a method outside of main --- How will you call your game in main?
+    -By using methods that refer to the main method.
+    Why was it recommended that you use .toLowerCase() with your Scanner input?
+    
+    It is recommended so you call the object.
+    
+    You should use different methods when moving the protagonist and to check for intersections. How? Why?
+    What values will you pass across methods? how? why?
+    
+    You neeed different methods for the different directions your character moves and how they move when not moving and fighting.

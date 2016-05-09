@@ -31,9 +31,18 @@
     Write the code from line #b and explain what it does.
     The  code in b prints the ccordinates.
     Write the code from line #c and explain what it does. Explain how its different than #e
+    The code from c prints out the coordinates for the x and y. The differnence is e only prints out the coordinates for y.
     The code in c prints out .s and the code from e prints out xs.
     Write the code from line #d and explain what it does.
+    The coordinates x and y are printed out.
     The code from d prints out xs new coordinates
     Explain how to use a boolean with a while loop. Provide a very specific use case and code example.
+    The boolean with a while loop affects everything and repeats itself.
     Explain the use of static.
+    static applies to everything and everything gets the samee thing and does the same thing.
     Provide an example of how you could use an object with your game. Give a code example.
+you can use an object to create the player, enemy, or treasure.
+map[point1][point2] = '@';
+        map[epoint1][epoint2] = 'e';
+        map[tpoint1][tpoint2] = 't';
+        //map[point1][point2] = 'x'; 

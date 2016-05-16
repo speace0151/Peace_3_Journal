@@ -1,0 +1,24 @@
+Please title your journal lastname-date-review_reflection_pt6
+
+    Explain casting. Up-casting, Down-casting.
+    Give a specific code example for up-casting
+    Give a specific code example for down-casting
+    Give a specific code example for converting a char to a String
+    What is the range of values for byte? Why?
+
+ An example for upcasting would be 
+class C{}
+class D extends clas C{}
+C c1 = new D();
+
+An example ofdowncasting would be 
+
+Horse h = new Horse();
+
+An example of converting a char to a String would be
+
+String stringa = Character.toString(ch);
+
+The range of values for byte is -128 to 127 because it is aa 8 bit integer followed by a 7 bit unassigned integer.
+
+
